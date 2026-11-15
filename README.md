@@ -21,7 +21,7 @@
 - 🖨️ **PrintShield** – Secure Document Printing Platform (In Progress)
 - 🌐 [Personal Portfolio Website](https://github.com/jidnyasapatil/portfolio)
 - 🛒 **E-commerce Website** – Online Shopping Platform
-- 💻 **Landing Page** – Responsive Web Desig
+- 💻 **Landing Page** – Responsive Web Design
 
   ## 🎯 Career Goals
 
