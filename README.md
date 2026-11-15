@@ -21,15 +21,16 @@
 - 🖨️ **PrintShield** – Secure Document Printing Platform (In Progress)
 - 🌐 [Personal Portfolio Website](https://github.com/jidnyasapatil/portfolio)
 - 🛒 **E-commerce Website** – Online Shopping Platform
-- 💻 **Landing Page** – Responsive Web Design
+- 💻 **Landing Page** – Responsive Web Desig
 
-## 🎯 My Goals
+  ## 🎯 Career Goals
 
-- Improve my problem-solving skills.
-- Build practical software projects.
-- Learn AI and Full Stack Development.
-- Prepare for software engineering internships.
-- Explore Data Analytics and Data Visualization
+- Prepare for Software Engineering internships.
+- Strengthen Data Structures and Problem-Solving skills.
+- Learn Full Stack Development and Artificial Intelligence.
+- Explore Data Analytics and Data Visualization.
+- Build real-world projects and improve technical skills.
+
 
 ## 🔗 Connect With Me
 
