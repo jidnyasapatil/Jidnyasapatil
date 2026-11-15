@@ -29,6 +29,7 @@
 - Build practical software projects.
 - Learn AI and Full Stack Development.
 - Prepare for software engineering internships.
+- Explore Data Analytics and Data Visualization
 
 ## 🔗 Connect With Me
 
